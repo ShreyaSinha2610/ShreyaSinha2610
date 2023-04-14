@@ -2,10 +2,15 @@
 <h1 align="left">About🤩</h1>
 <h3>
 Hi there 👋 I am Shreya Sinha.
+ <br>
 🎓 I am currently persuing B-Tech in Computer science and engineering from VIT bhopal
+ <br>
 🌱 I’m currently learning Web development
+ <br>
 👯 I’m good at languages and enhancing my dsa logics as well
+ <br>
 💬 Ask me about c++, dsa, frontend, database
+ <br>
 ⚡ Fun fact: I can sing and cook too
 
 <h3 align="center">Feel free to connect with me❤️
