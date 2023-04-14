@@ -82,9 +82,9 @@ Hi there 👋 I am Shreya Sinha.
 </h1>
  <br>
 <p align="center">
-<a href="mailto:sinhashreya044@gmail.com"><img align="center" width="30px" src="https://github.com/ShreyaSinha2610/ShreyaSinha2610/blob/main/assets/mail.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shreya--sinha/"><img align="center" width="30px" src="https://github.com/ShreyaSinha2610/ShreyaSinha2610/blob/main/assets/linkedin.png"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href=" https://twitter.com/s36110059?t=wSwPIOt8dLyyoEAqd37OcA&s=08"><img align="center" width="30px" src="https://github.com/ShreyaSinha2610/ShreyaSinha2610/blob/main/assets/twitter.png" /></a> &nbsp;&nbsp;
+<a href="mailto:sinhashreya044@gmail.com"><img align="center" width="50px" src="https://github.com/ShreyaSinha2610/ShreyaSinha2610/blob/main/assets/mail.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shreya--sinha/"><img align="center" width="50px" src="https://github.com/ShreyaSinha2610/ShreyaSinha2610/blob/main/assets/linkedin.png"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href=" https://twitter.com/s36110059?t=wSwPIOt8dLyyoEAqd37OcA&s=08"><img align="center" width="50px" src="https://github.com/ShreyaSinha2610/ShreyaSinha2610/blob/main/assets/twitter.png" /></a> &nbsp;&nbsp;
 
 </p>
 <br>
