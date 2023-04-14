@@ -1,4 +1,4 @@
-<p align = "center"><img src="https://github.com/ShreyaSinha2610/ShreyaSinha2610/blob/main/assets/my_intro.gif" width=600px/></p>
+<p align = "center"><img src="https://github.com/ShreyaSinha2610/ShreyaSinha2610/blob/main/assets/intro.gif" width=600px/></p>
 <h1 align="left">About🤩</h1>
 <h3>
 Hi there 👋 I am Shreya Sinha.
