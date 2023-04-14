@@ -19,7 +19,7 @@ Hi there 👋 I am Shreya Sinha.
  <br>
 
 
-<p align = "center"><img src="https://github.com/ShreyaSinha2610/ShreyaSinha2610/blob/main/assets/quote.jpg" width="500px"/>
+<p align = "center"><img src="https://github.com/ShreyaSinha2610/ShreyaSinha2610/blob/main/assets/quote.jpeg" width="500px"/>
 
 <br>
 <h1 align="center"> My Skill Set </h1>
