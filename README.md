@@ -3,7 +3,7 @@
 <h3>
 Hi there 👋 I am Shreya Sinha.
  <br>
-🎓 I am currently persuing B-Tech in Computer science and engineering from VIT bhopal
+🎓 I am a final year student currently persuing B-Tech in Computer science and engineering from VIT bhopal
  <br>
 🌱 I’m currently learning Web development
  <br>
