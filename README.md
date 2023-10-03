@@ -5,11 +5,13 @@ Hi there 👋 I am Shreya Sinha.
  <br>
 🎓 I am a final year student currently persuing B-Tech in Computer science and engineering from VIT bhopal
  <br>
-🌱 I’m currently learning Web development
+<🌱 I am an enthusiastic Salesforce Learner||Trailhead Mountaineer with 16x Badges and 15x Superbadges
  <br>
 👯 I’m good at languages and enhancing my dsa logics as well
  <br>
-💬 Ask me about c++, dsa, frontend, database
+ 📝I make content writer for VIT BHOPAL student chapter club.
+ <br>
+💬 Ask me about c++, dsa, salesforce, SQL
  <br>
 ⚡ Fun fact: I can sing and cook too
 
